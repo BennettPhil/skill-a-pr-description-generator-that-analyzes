@@ -12,7 +12,7 @@ Implement the idea: A PR description generator that analyzes the diff between tw
 No additional context provided.
 
 # Builder Influence
-Use a concise, validation-first workflow derived from the selected builder guidance: --- name: starter-builder description: A minimal, focused builder that generates clean Agent Skills from a single idea prompt. version: 0.1.0 license: Apache-2.0 ---
+Use a concise, validation-first workflow derived from the selected builder guidance: --- name: validation-first-builder description: A builder that generates Agent Skills with executable validation as the primary quality gate - smoke tests must pass before any output is finalized. version: 0.3.0 license: Apache-2.0 ---
 
 # Workflow
 1. Clarify assumptions and constraints before implementation.

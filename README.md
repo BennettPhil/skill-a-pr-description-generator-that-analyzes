@@ -6,4 +6,4 @@ Idea prompt: A PR description generator that analyzes the diff between two branc
 None
 
 ## Notes
-Generated using builder `starter-builder` (7d421bd0-a0e0-4be6-81e9-42b2dcd0f54d) with fitness 0.150.
+Generated using builder `validation-first-builder` (7a90ee14-d482-4e46-a998-2440659bfb59) with fitness 0.500.
